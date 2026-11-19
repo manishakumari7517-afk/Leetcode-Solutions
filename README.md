@@ -30,4 +30,12 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
