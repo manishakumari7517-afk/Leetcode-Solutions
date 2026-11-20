@@ -62,4 +62,8 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0709-to-lower-case](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 <!---LeetCode Topics End-->
