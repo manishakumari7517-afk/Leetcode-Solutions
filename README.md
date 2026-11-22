@@ -69,5 +69,14 @@ My LeetCode DSA practice solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0709-to-lower-case](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
