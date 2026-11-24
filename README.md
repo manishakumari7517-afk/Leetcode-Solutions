@@ -6,6 +6,7 @@ My LeetCode DSA practice solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Stack
@@ -51,6 +52,7 @@ My LeetCode DSA practice solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -83,4 +85,8 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
