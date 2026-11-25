@@ -46,6 +46,7 @@ My LeetCode DSA practice solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -78,6 +79,7 @@ My LeetCode DSA practice solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0242-valid-anagram](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0709-to-lower-case](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
