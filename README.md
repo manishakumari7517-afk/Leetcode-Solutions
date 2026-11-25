@@ -49,6 +49,7 @@ My LeetCode DSA practice solutions
 | [0198-house-robber](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ My LeetCode DSA practice solutions
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0709-to-lower-case](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,8 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
