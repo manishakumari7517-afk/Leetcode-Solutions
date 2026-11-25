@@ -51,6 +51,7 @@ My LeetCode DSA practice solutions
 | [0509-fibonacci-number](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ My LeetCode DSA practice solutions
 | [0516-longest-palindromic-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0709-to-lower-case](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
