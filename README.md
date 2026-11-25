@@ -38,16 +38,19 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -101,4 +104,8 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
