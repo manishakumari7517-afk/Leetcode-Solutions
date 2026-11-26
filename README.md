@@ -27,6 +27,7 @@ My LeetCode DSA practice solutions
 | [0098-validate-binary-search-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ My LeetCode DSA practice solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +110,12 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
