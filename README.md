@@ -49,6 +49,7 @@ My LeetCode DSA practice solutions
 | [0200-number-of-islands](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0994-rotting-oranges](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ My LeetCode DSA practice solutions
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,5 @@ My LeetCode DSA practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
