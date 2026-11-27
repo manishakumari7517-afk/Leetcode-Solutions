@@ -29,6 +29,7 @@ My LeetCode DSA practice solutions
 | [0200-number-of-islands](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ My LeetCode DSA practice solutions
 | [0226-invert-binary-tree](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Knapsack Problem
@@ -122,14 +124,24 @@ My LeetCode DSA practice solutions
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/manishakumari7517-afk/Leetcode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
